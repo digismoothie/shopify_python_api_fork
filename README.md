@@ -1,3 +1,6 @@
+# What is it?
+It's a Digismoothie private fork. We are afraid that Shopify will not evolve. We store all origanl tags. Our tags will start with the version 100.
+
 # Shopify API
 
 [![Build Status](https://github.com/Shopify/shopify_python_api/workflows/CI/badge.svg)](https://github.com/Shopify/shopify_python_api/actions)
